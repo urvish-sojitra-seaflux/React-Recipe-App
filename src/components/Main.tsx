@@ -181,7 +181,7 @@ const Main: FC = () => {
               Close
             </Button>
             <Button variant="success" type="submit">
-              Save
+              Save Changes
             </Button>
           </Modal.Footer>
         </form>
